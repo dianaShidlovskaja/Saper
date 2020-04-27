@@ -1,0 +1,9 @@
+C:\Users\HP\Desktop\4 семестр\ООП\Курсач\Saper\Saper\bin\Debug\Saper.exe.config
+C:\Users\HP\Desktop\4 семестр\ООП\Курсач\Saper\Saper\bin\Debug\Saper.exe
+C:\Users\HP\Desktop\4 семестр\ООП\Курсач\Saper\Saper\bin\Debug\Saper.pdb
+C:\Users\HP\Desktop\4 семестр\ООП\Курсач\Saper\Saper\obj\Debug\Saper.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\4 семестр\ООП\Курсач\Saper\Saper\obj\Debug\Saper.Form1.resources
+C:\Users\HP\Desktop\4 семестр\ООП\Курсач\Saper\Saper\obj\Debug\Saper.Properties.Resources.resources
+C:\Users\HP\Desktop\4 семестр\ООП\Курсач\Saper\Saper\obj\Debug\Saper.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\4 семестр\ООП\Курсач\Saper\Saper\obj\Debug\Saper.exe
+C:\Users\HP\Desktop\4 семестр\ООП\Курсач\Saper\Saper\obj\Debug\Saper.pdb
